@@ -1,3 +1,8 @@
+# Freecodecamp Testimonials App
+
+Here is a simple React app to show some testimonials of freecodecamp, this testimonials are in cards implementing CSS styling and reusable
+components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
